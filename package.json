@@ -1,6 +1,6 @@
 {
   "name": "advanceddsa.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding implementations",
   "main": "index.js",
   "scripts": {
